@@ -1,3 +1,2 @@
 # nst-git-tutorial
-
-Yashveer Singh Tomar 
+Abhay Pratap Yadav
